@@ -5,7 +5,14 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C37CB2A8-2335-40A4-AC82-A3A0D60C1C17}"
 	ProjectSection(SolutionItems) = preProject
+		CountingSort1.cs = CountingSort1.cs
+		DiagonalDifference.cs = DiagonalDifference.cs
+		FindTheMedian.cs = FindTheMedian.cs
+		FizzBuzz.cs = FizzBuzz.cs
+		LonelyInteger.cs = LonelyInteger.cs
+		MiniMaxSum.cs = MiniMaxSum.cs
 		PlusMinus.cs = PlusMinus.cs
+		TimeConversion.cs = TimeConversion.cs
 	EndProjectSection
 EndProject
 Global
